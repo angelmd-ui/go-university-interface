@@ -1,4 +1,4 @@
-# appgou
+# go-university-interface
 
 ## Project setup
 ```
